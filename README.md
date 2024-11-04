@@ -59,6 +59,7 @@ In 2023, Universal Export achieved remarkable financial outcomes, recording an a
 
  <img width="828" alt="Image 3" src="https://github.com/user-attachments/assets/7f64cbd9-2f8e-407b-bb8c-c42098b7bdc0">
 
+
 ##Monthly Sales and Profit Trends:
 
  <img width="832" alt="image 2" src="https://github.com/user-attachments/assets/c3118e4c-041b-40aa-abd5-98b36b65ac9f">
@@ -66,11 +67,13 @@ In 2023, Universal Export achieved remarkable financial outcomes, recording an a
 
 Monthly performance peaked in August and July, driven largely by demand for Polo shirts and Hoodies. This seasonal growth aligns with back-to-school demand and supports strategies for future promotional timing. Lower sales in February and March reflect typical post-holiday slowdowns, indicating the need for focused inventory and cost management during these periods.
 
+
 ##Sales Distribution by Country:
 
 Universal Export has a solid market presence across Europe, with the United Kingdom being the leading revenue driver, contributing £249 million. France and Spain also contribute significantly to our overall revenue, further cementing the company’s strong position within Europe. These insights guide our geographic resource allocation and highlight the need for targeted marketing to reinforce and expand our foothold in these high-performing regions.
  
  <img width="828" alt="Image 4" src="https://github.com/user-attachments/assets/66438cd1-6d7e-4fa9-bed0-23a447e2f337">
+
 
 ##Shipment Mode Trends:
 
@@ -109,6 +112,7 @@ Acquiring new customers is vital for sustainable growth, and several team member
 Product-level analysis reveals that certain items in the Jacket category, such as the V1 Bomber Jacket in Tan(ID-70) and Sunlight (ID-69), drive significant revenue equal to £23.47 million and £23.09 million respectively. The Military Jacket Blue (ID-73) was the third highest with a contribution of £23.03 million. Sales data indicates strong sales of these products by top-performing salespeople, further emphasising the importance of high-demand items.
 
  <img width="680" alt="Image 11" src="https://github.com/user-attachments/assets/04b1d251-6273-4106-a3c1-01a428f096a8">
+
 Looking at the quantity of the top three revenue generating products sold by each sales person, it is noticeable that sales ID 22 has surpassed the others by selling 181K units of these products. The second highest is ID 12 by selling 147K units and the third is ID 7 with 140K units throughout the year.
 
 ##Profit margin analysis:
@@ -116,6 +120,7 @@ Looking at the quantity of the top three revenue generating products sold by eac
 The term marginal profit is calculated as the difference between the selling price and manufacturing cost of a product divided by the selling price expressed as percentage.
 After the margin calculation it can be said that about 14 products, all belonging to the Hoodie category have the highest profit margin of 68.75%. These 14 products are the Xtra Sport Hoodie for Athlete in different colours (product ID 89 to 102). The specified products stand out in the entire portfolio of products with highest potential to drive profitability for Universal Export.
  
+
  <img width="680" alt="Image 12" src="https://github.com/user-attachments/assets/97b9e18e-62bd-4756-b73f-b364294d50af">
 
 The salespeople who strategically focused on marketing and selling the maximum units of these products demonstrate a good understanding of the company’s profit margin and contribute significantly to the overall profitability of Universal Export.
